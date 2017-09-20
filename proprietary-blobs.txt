@@ -142,11 +142,11 @@ vendor/lib/libqomx_jpegdec.so
 
 # Camera - from jagnm
 bin/mm-qcamera-daemon
-lib/hw/camera.vendor.msm8226.so
 lib/libHDR.so
 lib/libmm-qcamera.so
 lib/libmmcamera_interface.so
 lib/libmmjpeg_interface.so
+vendor/lib/hw/camera.vendor.msm8226.so
 vendor/lib/libchromatix_imx219_common.so
 vendor/lib/libchromatix_imx219_default_video.so
 vendor/lib/libchromatix_imx219_preview.so
