@@ -24,7 +24,7 @@ PRODUCT_PACKAGE_OVERLAYS += device/lge/w7/overlay
 # Configs
 PRODUCT_COPY_FILES += \
     device/lge/w7/prebuilt/etc/media_profiles.xml:system/etc/media_profiles.xml \
-    device/lge/w7/prebuilt/etc/mixer_paths.xml:system/etc/mixer_paths.xml \
+    device/lge/w7/prebuilt/etc/mixer_paths.xml:system/vendor/etc/mixer_paths.xml \
     device/lge/w7/prebuilt/usr/idc/touch_dev.idc:system/usr/idc/touch_dev.idc \
     device/lge/w7/prebuilt/usr/keylayout/Generic-D4x5.kl:system/usr/keylayout/Generic-D4x5.kl \
     device/lge/w7/prebuilt/usr/keylayout/Generic-D410.kl:system/usr/keylayout/Generic-D410.kl
